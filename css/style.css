@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Login & Registration Page CSS Starts Here */
+
+.logo{
+    width: 250px;
+}
+.logindiv{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+.loginform{
+    padding: 50px 15px;
+}
+.logininp{
+    padding: 5px 15px;
+    height: 25px;
+    width: 250px;
+    margin-bottom: 15px;
+    border: 2px solid #1AB26B;
+    border-radius: 8px;
+    background-color: #F3F3F3;
+}
+.loginbtn{
+    padding: 5px 15px;
+    width: 150px;
+    border: 2px solid #1AB26B;
+    border-radius: 8px;
+    background-color: #1AB26B;
+    color: white;
+    font-size: 18px;
+}
+
+/* Login & Registration Page CSS ends here */
+
+/* Music Page CSS starts here */
+
+.musich1{
+    margin-bottom: 25px;
+}
+.musicdiv{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+.musica{
+    text-decoration: none;
+    padding: 8px 15px;
+    background-color: #1AB26B;
+    border-radius: 8px;
+    color: white;
+}
+.musictable{
+    margin-top: 25px;
+    border: 2px solid #181313;
+    width: 100%;
+}
+.musicinp{
+    margin-top: 35px;
+    margin-right: 10px;
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: #F3F3F3;
+}
+.musicbtn{
+    margin-top: 35px;
+    margin-right: 10px;
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: #1AB26B;
+    color: white;
+    font-size: 15px;
+}
+.musictr{
+    border: 2px solid #181313;
+}
+.musicth{
+    border: 2px solid #181313;
+    padding: 5px 25px;
+}
+.downloadbtn{
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: #1AB26B;
+    color: white;
+    font-size: 15px;
+}
+
+/* Music Page CSS ends here */
+
+/* Edit Profile page CSS starts here */
+
+.editdiv{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+.edittable{
+    margin-top: 45px;
+    width: 100%;
+}
+.editform{
+    margin-top: 45px;
+    width: 100%;
+}
+.editspace{
+    margin-top: 45px;
+}
+.editinp{
+    padding: 8px 25px;
+    border-radius: 8px;
+    border: none;
+    background-color: #F3F3F3;
+    height: 25px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+.editbtn{
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: #1AB26B;
+    color: white;
+    margin-left: 10px;
+    height: 35px;
+    font-size: 15px;
+}
+
+/* Edit Profile CSS ends here */
+
+/* Add Music Page CSS starts here */
+
+.addmusicdiv{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+.addmusicform{
+    margin-top: 45px;
+    width: 100%;
+}
+.addmusicinp{
+    padding: 8px 25px;
+    border-radius: 8px;
+    border: none;
+    background-color: #F3F3F3;
+    height: 25px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+.addmusicsel{
+    padding: 5px 25px;
+    border-radius: 8px;
+    border: none;
+    background-color: #F3F3F3;
+    height: 25px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 40px;
+}
+.addmusicbtn{
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: #1AB26B;
+    color: white;
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+/* Add Music Page CSS ends here */
+
+.deletediv{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+.deletetable{
+    margin-top: 25px;
+    border: 2px solid #181313;
+    width: 100%;
+}
+.deletetr{
+    border: 2px solid #181313;
+}
+.deleteth{
+    border: 2px solid #181313;
+    padding: 5px 25px;
+}
